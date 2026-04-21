@@ -1,0 +1,39 @@
+# --- C++ (Standard) ---
+*.exe
+*.out
+*.app
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.tds
+
+# --- Debug/Build Folders ---
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+build/
+
+# --- Visual Studio Code ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# --- C++ Precompiled headers ---
+*.pch
+*.gch
+
+# --- Windows specific ---
+Thumbs.db
+desktop.ini
+
+# --- Temporary/Backup files ---
+*.bak
+*.swp
+*~
