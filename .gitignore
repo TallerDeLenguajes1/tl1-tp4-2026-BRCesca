@@ -24,6 +24,7 @@ build/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+.vscode/
 
 # --- C++ Precompiled headers ---
 *.pch
